@@ -1,0 +1,6 @@
+"-","632","Sun, 20 May 2012 17:04:46 +0800","sheng@icmd.org","Baoshan Sheng","Test Docas.io","<package.json>","0","-"
+"-","53152","Fri, 18 May 2012 14:39:16 +0200","paul.uithol@gmail.com","Paul Uithol","Consolidate model lookup/creation into 'Backbone.RelationalModel.findOrCreate'. Fixes #126.","<backbone-relational.js>","1","1396"
+"-","22622","Fri, 18 May 2012 14:39:16 +0200","paul.uithol@gmail.com","Paul Uithol","Consolidate model lookup/creation into 'Backbone.RelationalModel.findOrCreate'. Fixes #126.","<README.md>","0","-"
+"-","18","Tue, 24 May 2011 19:38:34 +0400","dronnikov@gmail.com","Vladimir Dronnikov","npm package","<.npmignore>","0","-"
+"d","4096","Fri, 18 May 2012 14:39:16 +0200","paul.uithol@gmail.com","Paul Uithol","Consolidate model lookup/creation into 'Backbone.RelationalModel.findOrCreate'. Fixes #126.","<test>","0","-"
+"-","30","Fri, 23 Mar 2012 18:57:48 +0100","jens.alm@mac.com","Jens Alm","added .DS_Store to .gitignore","<.gitignore>","0","-"
